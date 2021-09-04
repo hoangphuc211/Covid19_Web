@@ -2,7 +2,8 @@
 
 While people are putting their effort into protecting their life and stopping the epidemic from spreading, chaos, we are flooded with thousands of unreliable resources, false information, and late updating on the situation. Many people find it really hard to keep up with the virus background, therefore. Many third parties are leaking fake news to create anxiety, anger in the community towards negative purposes. Therefore we came up with the idea, to build a simple app that can gather all the needed information of this epidemic COVID-19, including functions to stop the plague from spreading faster through making interactions between users and government more friendly and effective.
 
-This Project is a beginner friendly project was built by using React. 
+This Project is a beginner friendly project was built by using React.
+
 Academic Supervisor appointed by RMIT University: Mr.Thanh
 
 ## Features
